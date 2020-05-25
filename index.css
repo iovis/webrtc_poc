@@ -1,0 +1,10 @@
+video {
+  display: inline-block;
+  height: auto;
+  width: 49%;
+}
+
+body {
+  margin: 0;
+  background-color: #222;
+}
